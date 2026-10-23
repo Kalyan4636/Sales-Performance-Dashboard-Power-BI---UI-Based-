@@ -10,9 +10,20 @@ Designed with a clean, brand-aligned interface inspired by **Data Detective Club
 
 ## 🚀 Project Overview
 
-The Sales Performance Dashboard provides a consolidated view of business performance through interactive KPIs, regional analysis, segment-level profitability, and product and customer rankings.
+The Sales Performance Dashboard provides a consolidated view of business performance through interactive KPIs, regional analysis, segment-level profitability, and product and customer rankings. 
 
 The objective is simple: **turn raw sales data into meaningful insights that stakeholders can understand quickly and use confidently.**
+
+## 🚀 Project Dashboard 1 :
+
+<img width="1249" height="837" alt="Dashboard 1" src="https://github.com/user-attachments/assets/048f63b8-2e42-48bb-9527-87b8e3e0a807" />
+
+
+## 🚀 Project Dashboard 2 : 
+
+<img width="1249" height="831" alt="Dashboard 2" src="https://github.com/user-attachments/assets/7de2341e-5bb3-4bc4-afc5-088363bed3e6" />
+
+
 
 ## 🎯 Business Objectives
 
